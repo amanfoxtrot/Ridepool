@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-container {
+    background-color: #17626A;
+    border-radius: 5px;
+    font-family: Roboto;
+    color: white;
+
+}
+
+.bg-image {
+    background-size: cover;
+    height: 300px;
+    width: 150vh;
+    padding: 80px;
+    margin: 20px;
+    font-family: 'italian';
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px;
+    border-color: black;
+
+}
+
+.side-top {
+    text-align: right;
+    color: white;
+    padding-left: 600px;
+}
+
+.bg-container {
+    background-size: cover;
+    background-color: #E8ECEC;
+
+}
+
+.sec-box {
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.all-para {
+    color: #5B5B59;
+    font-weight: bold;
+}
+
+.third-box {
+    background-color: #17626A;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+}
+
+.forth-box {
+    margin: 30px;
+    padding: 40px;
+}
+
+.buttun {
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+    color: #17626A;
+    font-weight: bold;
+    height: 100px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.fivth-box {
+    background-color: #17626A;
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+    border-radius: 15px;
+
+}
+
+.sixth-box {
+    padding: 20px;
+    margin: 15px;
+}
+
+.sixth-box-each {
+    padding: 20px;
+    margin: 15px;
+}
+
+.help-centre-head {
+    text-align: center;
+}
+
+.seventh-box {
+    margin: 15px;
+    padding: 20px;
+    background-color: #F3FBFB;
+    border-radius: 10px;
+}
+
+.route-text {
+    font-size: 20px;
+    font-family: 'Roboto';
+    list-style-type: none;
+}
+
+.names {
+    text-align: right;
+    color: black;
+}
+
+.text-top {
+    text-align: right;
+    padding: 15px;
+}
+
+.contact {
+    padding-left: 150px;
+    padding-top: 38px;
+}
